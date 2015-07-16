@@ -1,2 +1,2 @@
 # Manages
-ManageStock
+ManageStocks
